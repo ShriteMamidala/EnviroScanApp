@@ -1,4 +1,4 @@
-# 🌍 EnviroScan=
+# 🌍 EnviroScan
 
 > ♻️ **First Place Winner – 2024 International Youth Biomimicry Hackathon**
 
