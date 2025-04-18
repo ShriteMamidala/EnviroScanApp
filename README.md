@@ -2,12 +2,6 @@
 
 > ♻️ **First Place Winner – 2024 International Youth Biomimicry Hackathon**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-1st%20Place%20Winner-brightgreen" />
-  <img src="https://img.shields.io/badge/platform-Flutter%20Mobile-blue" />
-  <img src="https://img.shields.io/badge/AI-YOLOv5%20Segmentation-orange" />
-</p>
-
 ---
 
 ## 📽️ Demo Video
