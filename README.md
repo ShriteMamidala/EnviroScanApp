@@ -1,4 +1,4 @@
-# 🌍 EnviroScan – AI That Thinks Like Nature
+# 🌍 EnviroScan=
 
 > ♻️ **First Place Winner – 2024 International Youth Biomimicry Hackathon**
 
